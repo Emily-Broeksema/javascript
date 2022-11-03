@@ -10,5 +10,3 @@ var i = 0;
     }
 document.getElementById("display").innerHTML = i;
 }
-
-
